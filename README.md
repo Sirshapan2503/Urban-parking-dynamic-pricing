@@ -1,18 +1,18 @@
 # Urban-parking-dynamic-pricing
-# 🚗 Dynamic Pricing for Urban Parking Lots
+# Dynamic Pricing for Urban Parking Lots
 
 **Capstone Project – Summer Analytics 2025**  
 Developed by **Sirshapan Kunda Roy** using Python, Pandas, NumPy, and Geopy.
 
 ---
 
-## 📌 Overview
+## Overview
 
 This project implements a real-time dynamic pricing engine for 14 urban parking lots based on occupancy, queue length, traffic, vehicle type, and competitor pricing. It helps reduce overcrowding and optimize utilization by updating prices dynamically every 30 minutes.
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
 | Layer            | Tools / Libraries                   |
 |------------------|-------------------------------------|
@@ -25,7 +25,7 @@ This project implements a real-time dynamic pricing engine for 14 urban parking 
 
 ---
 
-## 📐 Architecture Diagram
+## Architecture Diagram
 
 ```mermaid
 flowchart TD
